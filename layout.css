@@ -1,0 +1,27 @@
+.head{
+	height: 40px;
+	background-color: gray;
+	margin-bottom: 20px;
+}
+
+.body {
+	height: 250px;
+	background-color: gray;
+	margin-bottom: 10px;
+}
+
+.container{
+	display: flex;
+	justify-content: space-between;
+}
+.c1 {
+	height: 200px;
+	background-color: gray;
+	width: 400px;
+	justify-content: space-between;
+}
+.footer{
+	height: 55px;
+	background-color: gray;
+	margin-top: 20px;
+}
